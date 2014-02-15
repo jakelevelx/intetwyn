@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Intertwyn": {
+            "applicationId": "m8BkbbyI2iJgHIaq651JC3HeeO7yH8Aib1b6evfR", 
+            "masterKey": "OSvUunkZFpqMF9uXvx43mwyQDxZKDGktptlx8G46"
+        }, 
+        "_default": {
+            "link": "Intertwyn"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.16"
+    }
+}
